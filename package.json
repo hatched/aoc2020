@@ -1,0 +1,13 @@
+{
+  "name": "aoc2020",
+  "version": "1.0.0",
+  "description": "Solutions to the Advent of Code 2020",
+  "main": "index.js",
+  "type": "module",
+  "repository": "https://github.com/hatched/aoc2020",
+  "author": "Jeff Pihach (https://fromanegg.com)",
+  "license": "MIT",
+  "devDependencies": {
+    "prettier": "^2.2.1"
+  }
+}
